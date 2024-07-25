@@ -56,15 +56,14 @@ While sharing some similarities with games like "Evrloot" in terms of blockchain
 - [ ] Other:
 
 ### Would you like a technical team from Polkadot Play, to help you identify the technical requirements?
-- **Yes,** we are seeking assistance with integrating blockchain mechanics specifically related to NFT creation and management, as well as securing smart contracts to ensure asset protection and game integrity.
-  - Major pain points include efficient transaction processing and ensuring scalability within the Polkadot ecosystem.
+- **No,** we do not require assistance with identifying technical requirements at this stage. However, we may seek technical support in the future as we expand and refine our game features. Our team is proficient in blockchain integration and game development, specifically on the Moonbeam network using EVM. We have successfully implemented on-chain mechanics, such as character upgrades through ERC7508, and the creation of composable NFTs that enhance gameplay.
 
 ## 4. The Team
 
 ### Could you share insights about team members who are essential to your project's success? Highlight their specific skill sets and contributions to the game development.
 
 #### Team member #1
-**Alex Mercer**, Lead Developer - With over a decade of experience in game development, Alex has a profound expertise in integrating complex game mechanics with emerging technologies. He has spearheaded the integration of blockchain elements into our gaming projects, ensuring both security and scalability. His primary role in "Age of Chronos" involves overseeing the development of blockchain-based game features and ensuring that the game's architecture supports robust, decentralized interactions.
+**Daniele Monaco**, Game Developer - With over a decade of experience in game development, Daniele has a profound expertise in integrating complex game mechanics with emerging technologies. He has spearheaded the integration of blockchain elements into our gaming projects, ensuring both security and scalability. His primary role in "Age of Chronos" involves overseeing the development of blockchain-based game features and ensuring that the game's architecture supports robust, decentralized interactions.
 
 #### Team member #2
 **Eva Green**, Creative Director - Eva brings her extensive background in narrative design and world-building to craft the immersive universe of "Age of Chronos". Her innovative approach to storytelling is critical for developing the game's time-travel narrative, ensuring that it is engaging and seamlessly integrates with the NFT elements of the game.
