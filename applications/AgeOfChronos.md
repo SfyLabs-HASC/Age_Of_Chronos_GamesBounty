@@ -10,7 +10,7 @@
 
 ## 1. Pitch the Game
 
-### Please describe the game in a short pitch.
+### Please describe the game in a short pitch
 AGE OF CHRONOS Rebellion’s Echo is a web3 game created by SFY Labs on Moonbeam EVM with Unity Web.  Actually the game have an MVP that you can test. This project involves integrating NFT 2.0 technology into a web-based dungeon crawler game to enhance the gaming experience. Players can collect unique heroes, items, materials, and treasures. The roadmap details various phases of development, including new features, bug fixes, and enhancements aimed at improving both single-player and multiplayer modes.
 
 Key highlights include:
@@ -28,7 +28,7 @@ https://medium.com/@sfy.startup/age-of-chronos-rebellions-echo-7a4c5b14c041
  
  or check the website: https://www.ageofchronos.com/ 
 
- You can play at the first MVP of the game.
+ You can play at the first MVP of the game
 
 ### Please describe the game's core loop? (minimalistic)
 Discover (Explore time periods) -> Encounter (Engage in strategic battles) -> Acquire (Collect unique NFTs 2.0) -> Upgrade (Enhance characters and items)
