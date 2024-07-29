@@ -91,7 +91,7 @@ https://store.steampowered.com/developer/picaresquegames
 #### Team member #4
 **Ivan Parillo**, Technical Artist - Ivan Parillo, as a 2D graphic artist for the game Age of Chronos, is responsible for creating and designing character sprites, environmental backgrounds, and UI elements. He collaborates with the game development team to ensure visual consistency and enhance the player experience. Ivan also works on concept art to visualize new game features and updates, ensuring that all graphics align with the game's thematic style and vision. His role involves iterating on feedback to refine and polish graphical assets, contributing to the game's overall aesthetic and engagement.
 
-### Team member #4
+### Team member #5
 **Davide Ercole** as a blockchain developer for the game Age of Chronos, specializes in integrating blockchain technology and standards, particularly RMRK, into the game. He is responsible for implementing NFT functionalities and smart contracts to enhance in-game assets and player interactions. Davide ensures secure and efficient blockchain transactions, collaborating with the development team to integrate these features seamlessly. Additionally, he works on maintaining and updating the blockchain infrastructure, troubleshooting issues, and optimizing performance to support the game's innovative use of blockchain technology.
 
 ### Team Code Repos
